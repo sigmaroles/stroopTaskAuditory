@@ -1,0 +1,13 @@
+cond_congruent, filename
+yes,m_masculine.wav
+yes,m_boy.wav
+yes,m_man.wav
+yes,f_feminine.wav
+yes,f_girl.wav
+yes,f_woman.wav
+no,m_feminine.wav
+no,m_girl.wav
+no,m_woman.wav
+no,f_masculine.wav
+no,f_boy.wav
+no,f_man.wav

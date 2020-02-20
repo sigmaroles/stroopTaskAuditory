@@ -1,0 +1,7 @@
+filename format: 
+speakerGender_wordText.wav
+
+speakerGender : {m, f}
+
+e.g. 
+m_girl.wav => word "girl" spoken by male voice
